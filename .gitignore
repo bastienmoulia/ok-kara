@@ -46,6 +46,7 @@ testem.log
 Thumbs.db
 
 .angular
+cache
 
 # Firebase
 .firebase
